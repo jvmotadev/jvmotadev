@@ -1,4 +1,4 @@
-# Hi, I'm Jv 😶‍🌫️!
+# Hi, I'm Jv 📀!
 
 - **📝 Name**: João Victor Mota Machado
 - **🎓 Degree**: Systems Analysis and Development Student at UFPR (Universidade Federal do Paraná 🏛️).
