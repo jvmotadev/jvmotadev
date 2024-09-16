@@ -11,7 +11,7 @@
 - Certificate of completion in the intensive training course in Full Stack Web Development at EBANX 🔓.
 
 ## My Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,docker,git,java,nodejs,postman,react,tailwind,py,ts,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,docker,git,java,nodejs,postman,react,tailwind,py,ts,mysql,mongodb)](https://skillicons.dev)
 
 ## Other Knowledges and Skills
 
